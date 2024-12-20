@@ -4,4 +4,4 @@
 lógica de implementação, que muitas vezes acaba funcionando, mas não da maneira mais brilhante possível.</p>
 <br>
 <hr>
-<p>Desta forma, portando, o objetivo era me familiriazar com a sintaxe e padrões de escrita da linguagem.</p>
+<p>Desta forma, portanto, o objetivo era me acostumar com a sintaxe, metódos e funções da linguagem.</p>
